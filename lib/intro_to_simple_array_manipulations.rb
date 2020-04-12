@@ -14,5 +14,10 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
+  new_array = array.flatten
+  new_array
+end
+
+def using_delete(array, string)
   
 end
